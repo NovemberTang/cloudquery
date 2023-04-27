@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/cloudquery/cloudquery/compare/scaffold-v1.6.7...scaffold-v1.7.0) (2023-04-27)
+
+
+### Features
+
+* Migrate scaffold to plugin-sdk v2 ([#10377](https://github.com/cloudquery/cloudquery/issues/10377)) ([62f26a8](https://github.com/cloudquery/cloudquery/commit/62f26a8d5c3f27eda196ca4192df23a85caf54cb))
+
 ## [1.6.7](https://github.com/cloudquery/cloudquery/compare/scaffold-v1.6.6...scaffold-v1.6.7) (2023-04-25)
 
 

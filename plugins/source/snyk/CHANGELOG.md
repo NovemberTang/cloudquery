@@ -3,6 +3,12 @@
 ## [2.2.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-snyk-v2.1.0...plugins-source-snyk-v2.2.0) (2023-04-27)
 
 
+### This Release has the Following Changes to Tables
+- Table `snyk_group_members` was added
+- Table `snyk_groups` was added
+- Table `snyk_organization_members` was added
+- Table `snyk_organization_provisions` was added
+
 ### Features
 
 * **snyk:** Add Groups, Group Members, Organization Members and Pending User Provisions ([#10382](https://github.com/cloudquery/cloudquery/issues/10382)) ([31d4738](https://github.com/cloudquery/cloudquery/commit/31d4738935d36a7d77804b43a8dd9961c344d95c))

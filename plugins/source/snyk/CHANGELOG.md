@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.2.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-snyk-v2.1.0...plugins-source-snyk-v2.2.0) (2023-04-27)
+
+
+### Features
+
+* **snyk:** Add Groups, Group Members, Organization Members and Pending User Provisions ([#10382](https://github.com/cloudquery/cloudquery/issues/10382)) ([31d4738](https://github.com/cloudquery/cloudquery/commit/31d4738935d36a7d77804b43a8dd9961c344d95c))
+
+
+### Bug Fixes
+
+* **deps:** Update module github.com/cloudquery/snyk-sdk-go to v0.5.0 ([#10384](https://github.com/cloudquery/cloudquery/issues/10384)) ([fe0a9c1](https://github.com/cloudquery/cloudquery/commit/fe0a9c1f9c18c2fce4e127fb0ec2f17e9195b1d5))
+
 ## [2.1.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-snyk-v2.0.1...plugins-source-snyk-v2.1.0) (2023-04-25)
 
 

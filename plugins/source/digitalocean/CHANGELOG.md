@@ -5,6 +5,13 @@ All notable changes to this provider will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.3.1](https://github.com/cloudquery/cloudquery/compare/plugins-source-digitalocean-v4.3.0...plugins-source-digitalocean-v4.3.1) (2023-04-28)
+
+
+### Bug Fixes
+
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v2 to v2.5.0 ([#10390](https://github.com/cloudquery/cloudquery/issues/10390)) ([f706688](https://github.com/cloudquery/cloudquery/commit/f706688b2f5b8393d09d57020d31fb1d280f0dbd))
+
 ## [4.3.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-digitalocean-v4.2.6...plugins-source-digitalocean-v4.3.0) (2023-04-25)
 
 

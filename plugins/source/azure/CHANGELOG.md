@@ -5,6 +5,19 @@ All notable changes to this provider will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [7.4.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-azure-v7.3.0...plugins-source-azure-v7.4.0) (2023-04-28)
+
+
+### Features
+
+* **azure-resources:** Include signedIdentifiers in `azure_storage_tables` ([#10300](https://github.com/cloudquery/cloudquery/issues/10300)) ([d8a2a7b](https://github.com/cloudquery/cloudquery/commit/d8a2a7b80b15f7eb76be0d22d1c5797976d205da)), closes [#10142](https://github.com/cloudquery/cloudquery/issues/10142)
+
+
+### Bug Fixes
+
+* **azure:** Improve the query of CIS Azure v1.3.0 Section 7.7 ([#10012](https://github.com/cloudquery/cloudquery/issues/10012)) ([e206526](https://github.com/cloudquery/cloudquery/commit/e206526774b7587eb1d0b568a552158826de34cb))
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v2 to v2.5.0 ([#10390](https://github.com/cloudquery/cloudquery/issues/10390)) ([f706688](https://github.com/cloudquery/cloudquery/commit/f706688b2f5b8393d09d57020d31fb1d280f0dbd))
+
 ## [7.3.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-azure-v7.2.0...plugins-source-azure-v7.3.0) (2023-04-25)
 
 

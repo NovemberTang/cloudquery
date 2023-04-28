@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/cloudquery/cloudquery/compare/plugins-destination-mysql-v2.0.1...plugins-destination-mysql-v2.0.2) (2023-04-28)
+
+
+### Bug Fixes
+
+* **mysql:** Account for no PK in append mode migration ([#10413](https://github.com/cloudquery/cloudquery/issues/10413)) ([7c7e0d4](https://github.com/cloudquery/cloudquery/commit/7c7e0d40e088db5a7026bf6ef8e88df7e3773dbe))
+
 ## [2.0.1](https://github.com/cloudquery/cloudquery/compare/plugins-destination-mysql-v2.0.0...plugins-destination-mysql-v2.0.1) (2023-04-25)
 
 

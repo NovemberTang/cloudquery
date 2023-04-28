@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [17.1.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-aws-v17.0.0...plugins-source-aws-v17.1.0) (2023-04-28)
 
 
+### This Release has the Following Changes to Tables
+- Table `aws_costexplorer_cost_current_month` was added
+- Table `aws_costexplorer_forecast_current_month` was added
+
 ### Features
 
 * **aws:** Add Support for Cost Explorer data ([#10288](https://github.com/cloudquery/cloudquery/issues/10288)) ([c22f9b7](https://github.com/cloudquery/cloudquery/commit/c22f9b7677fa16030d08463bf159e06d385ea39c))

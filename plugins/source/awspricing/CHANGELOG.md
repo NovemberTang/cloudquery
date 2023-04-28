@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/cloudquery/cloudquery/compare/plugins-source-awspricing-v1.2.0...plugins-source-awspricing-v1.2.1) (2023-04-28)
+
+
+### Bug Fixes
+
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v2 to v2.5.0 ([#10390](https://github.com/cloudquery/cloudquery/issues/10390)) ([f706688](https://github.com/cloudquery/cloudquery/commit/f706688b2f5b8393d09d57020d31fb1d280f0dbd))
+
 ## [1.2.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-awspricing-v1.1.4...plugins-source-awspricing-v1.2.0) (2023-04-25)
 
 
